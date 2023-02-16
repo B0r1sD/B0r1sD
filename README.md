@@ -14,7 +14,7 @@ Welcome to my Github, visitor!<br><br>On this page, you will find my public repo
 ![](https://github-readme-streak-stats.herokuapp.com/?user=B0r1sD&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=B0r1sD&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
+### 😂 Mandatory CS50 meme
 <img src="https://qph.cf2.quoracdn.net/main-qimg-4802f3bd305f0275a36160bbff460822-pjlq" width="512px"/>
 
 ---
