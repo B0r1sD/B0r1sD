@@ -1,7 +1,7 @@
 # BorisDepoortere
 
 # 💫 About Me:
-Welcome to my Github, visitor!<br><br>On this page, you will find my public repositories, where I am currently working on during the ADVBA Bioinformatics I follow at HOWEST (Bruges).<br><br>  
+Welcome to my Github, visitor!<br><br>On this page, you will find my public repositories containing personal projects and multiple programming exercises.<br><br>  
 
 
 ## 🌐 Socials:
